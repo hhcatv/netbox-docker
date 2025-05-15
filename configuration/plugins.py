@@ -11,7 +11,7 @@
 #     ADD YOUR SETTINGS HERE
 #   }
 # }
-PLUGINS=［
+PLUGINS = [
 "netbox_qrcode",
 "netbox_interface_synchronization",
 "netbox_topology_views",
