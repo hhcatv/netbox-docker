@@ -11,3 +11,10 @@
 #     ADD YOUR SETTINGS HERE
 #   }
 # }
+PLUGINS=［
+"netbox_qrcode",
+"netbox_interface_synchronization",
+"netbox_topology_views",
+"netbox_reorder_rack",
+"netbox_floorplan"
+]
