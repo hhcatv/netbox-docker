@@ -1,5 +1,5 @@
-netbox-qrcode,
-netbox-interface-synchronization,
-netbox-topology-views,
-netbox-reorder-rac,
+netbox-qrcode
+netbox-interface-synchronization
+netbox-topology-views
+netbox-reorder-rac
 netbox-floorplan-plugin
