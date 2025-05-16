@@ -1,6 +1,5 @@
 netbox-qrcode
 netbox-inventory
-netbox-interface-synchronization
 netbox-topology-views
 netbox-reorder-rack
 netbox-floorplan-plugin
