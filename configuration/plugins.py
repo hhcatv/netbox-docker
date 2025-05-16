@@ -18,7 +18,3 @@ PLUGINS = [
 "netbox_reorder_rack",
 "netbox_floorplan"
 ]
-
-PLUGINS_CONFIG = {
-    "netbox_inventory": {}
-}
