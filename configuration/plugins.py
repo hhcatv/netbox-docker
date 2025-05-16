@@ -14,5 +14,5 @@
 PLUGINS = [
 "netbox_inventory",
 "netbox_topology_views",
-"netbox_reorder_rack",
+"netbox_reorder_rack"
 ]
