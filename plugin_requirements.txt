@@ -1,5 +1,3 @@
-netbox-qrcode
 netbox-inventory
 netbox-topology-views
 netbox-reorder-rack
-netbox-floorplan-plugin
