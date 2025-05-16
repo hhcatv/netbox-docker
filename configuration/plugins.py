@@ -14,8 +14,11 @@
 PLUGINS = [
 "netbox_qrcode",
 "netbox_inventory",
-"netbox_interface_synchronization",
 "netbox_topology_views",
 "netbox_reorder_rack",
 "netbox_floorplan"
 ]
+
+PLUGINS_CONFIG = {
+    "netbox_inventory": {}
+}
