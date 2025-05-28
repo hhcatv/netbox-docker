@@ -1,3 +1,4 @@
 netbox-topology-views
 netbox-reorder-rack
 netbox-floorplan-plugin
+netbox-qrcode
