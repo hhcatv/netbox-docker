@@ -14,5 +14,6 @@
 PLUGINS = [
 "netbox_topology_views",
 "netbox_reorder_rack",
-"netbox_floorplan"
+"netbox_floorplan",
+"netbox_qrcode"
 ]
